@@ -1,5 +1,5 @@
 <?php
-$ToEmail = 'adc@gmail.com';
+$ToEmail = 'contact@clostra.com';
 $EmailSubject = 'User Contact Information';
 	$mailheader = "From: ".$_POST["email"]."\r\n";
 		$mailheader .= "Reply-To: ".$_POST["email"]."\r\n";
