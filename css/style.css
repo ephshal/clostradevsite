@@ -274,7 +274,7 @@ ul.info-share { margin-top: 30px; }
 .iq-breadcrumb { padding: 250px 0px 0px; background: url("../images/bg/breadcrumb.png") no-repeat 0 0; background-size: 100% 100%; }
 .iq-breadcrumb .container-fluid { padding: 0 90px; }
 .iq-breadcrumb nav { display: inline-block; }
-.breadcrumb-image { margin-top: -150px }
+.breadcrumb-image { margin-top: -100px; margin-bottom:100px }
 .breadcrumb-item a{color: #ffffff;}
 .breadcrumb-item.active { background: linear-gradient(to right, rgb(254, 223, 108) 0%, rgb(240, 104, 38) 0%, rgb(238, 31, 59) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 .breadcrumb-item.active::before, .breadcrumb-item+.breadcrumb-item::before { color: #ffffff; -webkit-text-fill-color: #ffffff; }
